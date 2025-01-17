@@ -25,12 +25,16 @@ I'm a Freelance Full-Stack JS Developer from Nantes, France.
 <br/>
 
 <details>
-  <summary>➕ More about me</summary>
+  <summary>🔭 More about me</summary>
 
   ### ⚡ Skills
   See my [resume](https://varadiell.github.io/CurriculumVitae/)
 
-  ### 🛠️ Tools
+  ### 🌱 Learning
+  - Blockchain development, [Alyra](https://www.alyra.fr/formations/decouvrir-la-formation-developpeur-blockchain-alyra)
+  - AI development, [Alyra](https://www.alyra.fr/formations/developpeur-intelligence-artificielle)
+
+  ### 🛠️ Tools (some)
   
   <div id="tools">
     <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40" /> -->
@@ -81,5 +85,5 @@ I'm a Freelance Full-Stack JS Developer from Nantes, France.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" title="vitest" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40" />
   </div>
-  
+
 </details>
