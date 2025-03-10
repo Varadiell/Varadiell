@@ -37,6 +37,7 @@ I'm a Freelance Full-Stack JS Developer from Nantes, France.
 
   ### 📌 Others
   - [CodinGame](https://www.codingame.com/profile/ce6f74141f2c35d74c291fce433de375137532)
+  - [NodeGuardians](https://nodeguardians.io/character/varadiell)
 
   ### 🛠️ Tools (some)
   
