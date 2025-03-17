@@ -32,8 +32,8 @@ I'm a Freelance Full-Stack JS Developer from Nantes, France.
   - See my [resume](https://varadiell.github.io/CurriculumVitae/)
 
   ### 🌱 Learning
-  - Blockchain development, [Alyra](https://www.alyra.fr/formations/decouvrir-la-formation-developpeur-blockchain-alyra)
-  - AI development, [Alyra](https://www.alyra.fr/formations/developpeur-intelligence-artificielle)
+  - Blockchain Real World Asset (RWA) tokenization.
+  - Decentralized Finance (DeFi) arbitrage.
 
   ### 📌 Others
   - [CodinGame](https://www.codingame.com/profile/ce6f74141f2c35d74c291fce433de375137532)
