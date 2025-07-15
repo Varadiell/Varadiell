@@ -26,14 +26,17 @@ I'm a Freelance Full-Stack Developer from Nantes, France.
 <br/>
 
 <details>
-  <summary>🔭 More about me</summary>
+  <summary>🔭 More about me...</summary>
 
   ### ⚡ Skills
-  - See my [resume](https://varadiell.github.io/CurriculumVitae/)
+  - See my [resume](https://varadiell.github.io/CurriculumVitae/).
 
   ### 🌱 Learning
   - Blockchain Real World Asset (RWA) tokenization.
   - Decentralized Finance (DeFi) arbitrage.
+
+  ### 🏆 Hackaton
+  - Proud finalist of the DeFi track at Chiliz's [Hacking Paris 2025](https://www.chiliz.com/hacking-paris/) hackaton.
 
   ### 📌 Others
   - [CodinGame](https://www.codingame.com/profile/ce6f74141f2c35d74c291fce433de375137532)
