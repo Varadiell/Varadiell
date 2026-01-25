@@ -9,7 +9,7 @@ I'm a Freelance Full-Stack Developer from Nantes, France.
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<a href="mailto:codeandsorcery@gmail.com">codeandsorcery@gmail.com</a>
+<a href="mailto:contact@codeandsorcery.fr">contact@codeandsorcery.fr</a>
 
 ### 📚 Languages
 
