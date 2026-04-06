@@ -37,6 +37,7 @@ I'm a Freelance Full-Stack Developer from Nantes, France.
 
   ### 🏆 Hackaton
   - Proud finalist of the DeFi track at Chiliz's [Hacking Paris 2025](https://www.chiliz.com/hacking-paris/) hackaton.
+  - ETHGlobal Cannes 2026 hackaton, project [here](https://github.com/Varadiell/onvo).
 
   ### 📌 Others
   - [CodinGame](https://www.codingame.com/profile/ce6f74141f2c35d74c291fce433de375137532)
